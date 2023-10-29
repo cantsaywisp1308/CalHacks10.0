@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A1UjXh92zBEm3HjRRh832geKoLZRreFfyGMCdxjhars=",
+  "Source": "HealthManagement",
+  "BasePath": "_content/HealthManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
